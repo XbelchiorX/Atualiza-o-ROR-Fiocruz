@@ -1,0 +1,2226 @@
+[
+  {
+    "admin": {
+      "created": {
+        "date": "2018-11-14",
+        "schema_version": "1.0"
+      },
+      "last_modified": {
+        "date": "2026-10-20",
+        "schema_version": "2.1"
+      }
+    },
+    "domains": [
+      "fiocruz.br"
+    ],
+    "established": 1900,
+    "external_ids": [
+      {
+        "all": [
+          "501100006507"
+        ],
+        "preferred": "501100006507",
+        "type": "fundref"
+      },
+      {
+        "all": [
+          "grid.418068.3"
+        ],
+        "preferred": "grid.418068.3",
+        "type": "grid"
+      },
+      {
+        "all": [
+          "0000 0001 0723 0931"
+        ],
+        "preferred": null,
+        "type": "isni"
+      },
+      {
+        "all": [
+          "Q2474815"
+        ],
+        "preferred": null,
+        "type": "wikidata"
+      }
+    ],
+    "id": "https://ror.org/04jhswv08",
+    "links": [
+      {
+        "type": "website",
+        "value": "https://fiocruz.br/"
+      },
+      {
+        "type": "wikipedia",
+        "value": "https://en.wikipedia.org/wiki/Oswaldo_Cruz_Foundation"
+      }
+    ],
+    "locations": [
+      {
+        "geonames_details": {
+          "continent_code": "SA",
+          "continent_name": "South America",
+          "country_code": "BR",
+          "country_name": "Brazil",
+          "country_subdivision_code": "RJ",
+          "country_subdivision_name": "Rio de Janeiro",
+          "lat": -22.90642,
+          "lng": -43.18223,
+          "name": "Rio de Janeiro"
+        },
+        "geonames_id": 3451190
+      }
+    ],
+    "names": [
+      {
+        "lang": null,
+        "types": [
+          "acronym"
+        ],
+        "value": "FIOCRUZ"
+      },
+      {
+        "lang": "pt",
+        "types": [
+          "ror_display",
+          "label"
+        ],
+        "value": "Fundação Oswaldo Cruz"
+      },
+      {
+        "lang": "en",
+        "types": [
+          "label"
+        ],
+        "value": "Oswaldo Cruz Foundation"
+      }
+    ],
+    "relationships": [
+      {
+        "label": "Escola Nacional de Saúde Pública Sergio Arouca",
+        "type": "child",
+        "id": "https://ror.org/02xm1d907"
+      },
+      {
+        "label": "Fiocruz Mato Grosso do Sul",
+        "type": "child",
+        "id": "https://ror.org/04p99tg90"
+      },
+      {
+        "label": "Fiocruz Ceará",
+        "type": "child",
+        "id": "https://ror.org/03rff4k48"
+      },
+      {
+        "label": "Instituto Oswaldo Cruz",
+        "type": "child",
+        "id": "https://ror.org/03pww0c55"
+      },
+      {
+        "label": "Casa de Oswaldo Cruz",
+        "type": "child",
+        "id": "https://ror.org/03mg1jb55"
+      },
+      {
+        "label": "Instituto de Ciência e Tecnologia em Biomodelos",
+        "type": "child",
+        "id": "https://ror.org/042mhpv02"
+      },
+      {
+        "label": "Fiocruz Rondônia",
+        "type": "child",
+        "id": "https://ror.org/0120tkg95"
+      },
+      {
+        "label": "Fiocruz Brasília",
+        "type": "child",
+        "id": "https://ror.org/05xvbjr04"
+      },
+      {
+        "label": "Instituto Gonçalo Moniz",
+        "type": "child",
+        "id": "https://ror.org/02kqr5716"
+      },
+      {
+        "label": "Fiocruz Piauí",
+        "type": "child",
+        "id": "https://ror.org/02n9dx372"
+      },
+      {
+        "label": "Escola Politécnica de Saúde Joaquim Venâncio",
+        "type": "child",
+        "id": "https://ror.org/043719z06"
+      },
+      {
+        "label": "Fiocruz Amazônia",
+        "type": "child",
+        "id": "https://ror.org/00tr75m28"
+      },
+      {
+        "label": "Instituto Nacional de Infectologia Evandro Chagas",
+        "type": "child",
+        "id": "https://ror.org/03jw34240"
+      },
+      {
+        "label": "Instituto Nacional de Controle de Qualidade em Saúde",
+        "type": "child",
+        "id": "https://ror.org/02ew1yw87"
+      },
+      {
+        "label": "Instituto de Tecnologia em Imunobiológicos",
+        "type": "child",
+        "id": "https://ror.org/01q1w1b26"
+      },
+      {
+        "label": "Instituto de Comunicação e Informação Científica e Tecnológica em Saúde",
+        "type": "child",
+        "id": "https://ror.org/011emjq73"
+      },
+      {
+        "label": "Instituto de Tecnologia em Fármacos",
+        "type": "child",
+        "id": "https://ror.org/04zshw128"
+      },
+      {
+        "label": "Instituto Carlos Chagas",
+        "type": "child",
+        "id": "https://ror.org/01y8gmz47"
+      },
+      {
+        "label": "Fiocruz Minas",
+        "type": "child",
+        "id": "https://ror.org/016szx330"
+      },
+      {
+        "label": "Instituto Nacional de Saúde da Mulher, da Criança e do Adolescente Fernandes Figueira",
+        "type": "child",
+        "id": "https://ror.org/013s73v91"
+      },
+      {
+        "label": "Instituto Aggeu Magalhães",
+        "type": "child",
+        "id": "https://ror.org/05pq9gb81"
+      },
+      {
+        "label": "Plataforma Internacional para Ciência, Tecnologia e Inovação em Saúde",
+        "type": "related",
+        "id": "https://ror.org/014fbxn93"
+      },
+      {
+        "label": "Pasteur Network",
+        "type": "related",
+        "id": "https://ror.org/04cb2ne58"
+      }
+    ],
+    "status": "active",
+    "types": [
+      "facility",
+      "funder"
+    ]
+  },
+  {
+    "admin": {
+      "created": {
+        "date": "2018-11-14",
+        "schema_version": "1.0"
+      },
+      "last_modified": {
+        "date": "2026-10-20",
+        "schema_version": "2.1"
+      }
+    },
+    "domains": [
+      "ensp.fiocruz.br"
+    ],
+    "established": 1954,
+    "external_ids": [
+      {
+        "all": [
+          "100019101"
+        ],
+        "preferred": "100019101",
+        "type": "fundref"
+      },
+      {
+        "all": [
+          "grid.418854.4"
+        ],
+        "preferred": "grid.418854.4",
+        "type": "grid"
+      },
+      {
+        "all": [
+          "0000 0004 0602 9605"
+        ],
+        "preferred": null,
+        "type": "isni"
+      }
+    ],
+    "id": "https://ror.org/02xm1d907",
+    "links": [
+      {
+        "type": "website",
+        "value": "https://ensp.fiocruz.br"
+      }
+    ],
+    "locations": [
+      {
+        "geonames_details": {
+          "continent_code": "SA",
+          "continent_name": "South America",
+          "country_code": "BR",
+          "country_name": "Brazil",
+          "country_subdivision_code": "RJ",
+          "country_subdivision_name": "Rio de Janeiro",
+          "lat": -22.90642,
+          "lng": -43.18223,
+          "name": "Rio de Janeiro"
+        },
+        "geonames_id": 3451190
+      }
+    ],
+    "names": [
+      {
+        "lang": null,
+        "types": [
+          "acronym"
+        ],
+        "value": "ENSP"
+      },
+      {
+        "lang": "pt",
+        "types": [
+          "alias"
+        ],
+        "value": "Escola Nacional de Saúde Pública"
+      },
+      {
+        "lang": "pt",
+        "types": [
+          "label",
+          "ror_display"
+        ],
+        "value": "Escola Nacional de Saúde Pública Sergio Arouca"
+      },
+      {
+        "lang": "pt",
+        "types": [
+          "alias"
+        ],
+        "value": "Escola Nacional de Saúde Pública Sérgio Arouca"
+      }
+    ],
+    "relationships": [
+      {
+        "label": "Fundação Oswaldo Cruz",
+        "type": "parent",
+        "id": "https://ror.org/04jhswv08"
+      }
+    ],
+    "status": "active",
+    "types": [
+      "education",
+      "funder"
+    ]
+  },
+  {
+    "admin": {
+      "created": {
+        "date": "2026-10-18",
+        "schema_version": "2.1"
+      },
+      "last_modified": {
+        "date": "2026-10-20",
+        "schema_version": "2.1"
+      }
+    },
+    "domains": [
+      "matogrossodosul.fiocruz.br"
+    ],
+    "established": 2011,
+    "external_ids": [],
+    "id": "https://ror.org/04p99tg90",
+    "links": [
+      {
+        "type": "website",
+        "value": "https://www.matogrossodosul.fiocruz.br/"
+      }
+    ],
+    "locations": [
+      {
+        "geonames_details": {
+          "continent_code": "SA",
+          "continent_name": "South America",
+          "country_code": "BR",
+          "country_name": "Brazil",
+          "country_subdivision_code": "MS",
+          "country_subdivision_name": "Mato Grosso do Sul",
+          "lat": -20.44278,
+          "lng": -54.64639,
+          "name": "Campo Grande"
+        },
+        "geonames_id": 3467747
+      }
+    ],
+    "names": [
+      {
+        "lang": "pt",
+        "types": [
+          "acronym"
+        ],
+        "value": "Fiocruz MS"
+      },
+      {
+        "lang": "pt",
+        "types": [
+          "label",
+          "ror_display"
+        ],
+        "value": "Fiocruz Mato Grosso do Sul"
+      },
+      {
+        "lang": "pt",
+        "types": [
+          "alias"
+        ],
+        "value": "Fundação Oswaldo Cruz Mato Grosso do Sul"
+      }
+    ],
+    "relationships": [
+      {
+        "label": "Fundação Oswaldo Cruz",
+        "type": "parent",
+        "id": "https://ror.org/04jhswv08"
+      }
+    ],
+    "status": "active",
+    "types": [
+      "government"
+    ]
+  },
+  {
+    "admin": {
+      "created": {
+        "date": "2026-10-18",
+        "schema_version": "2.1"
+      },
+      "last_modified": {
+        "date": "2026-10-20",
+        "schema_version": "2.1"
+      }
+    },
+    "domains": [
+      "ceara.fiocruz.br"
+    ],
+    "established": 2008,
+    "external_ids": [],
+    "id": "https://ror.org/03rff4k48",
+    "links": [
+      {
+        "type": "website",
+        "value": "https://ceara.fiocruz.br/portal/"
+      }
+    ],
+    "locations": [
+      {
+        "geonames_details": {
+          "continent_code": "SA",
+          "continent_name": "South America",
+          "country_code": "BR",
+          "country_name": "Brazil",
+          "country_subdivision_code": "CE",
+          "country_subdivision_name": "Ceará",
+          "lat": -3.89,
+          "lng": -38.45056,
+          "name": "Eusébio"
+        },
+        "geonames_id": 3400558
+      }
+    ],
+    "names": [
+      {
+        "lang": "pt",
+        "types": [
+          "alias"
+        ],
+        "value": "Escritório Técnico da Fiocruz no Ceará"
+      },
+      {
+        "lang": "pt",
+        "types": [
+          "label",
+          "ror_display"
+        ],
+        "value": "Fiocruz Ceará"
+      },
+      {
+        "lang": "pt",
+        "types": [
+          "alias"
+        ],
+        "value": "Fundação Oswaldo Cruz no Ceará"
+      }
+    ],
+    "relationships": [
+      {
+        "label": "Fundação Oswaldo Cruz",
+        "type": "parent",
+        "id": "https://ror.org/04jhswv08"
+      }
+    ],
+    "status": "active",
+    "types": [
+      "education",
+      "government"
+    ]
+  },
+  {
+    "admin": {
+      "created": {
+        "date": "2026-10-18",
+        "schema_version": "2.1"
+      },
+      "last_modified": {
+        "date": "2026-10-20",
+        "schema_version": "2.1"
+      }
+    },
+    "domains": [
+      "ioc.fiocruz.br"
+    ],
+    "established": 1900,
+    "external_ids": [
+      {
+        "all": [
+          "501100024786"
+        ],
+        "preferred": "501100024786",
+        "type": "fundref"
+      },
+      {
+        "all": [
+          "0000 0001 0940 3795"
+        ],
+        "preferred": "0000 0001 0940 3795",
+        "type": "isni"
+      }
+    ],
+    "id": "https://ror.org/03pww0c55",
+    "links": [
+      {
+        "type": "website",
+        "value": "https://www.ioc.fiocruz.br/"
+      }
+    ],
+    "locations": [
+      {
+        "geonames_details": {
+          "continent_code": "SA",
+          "continent_name": "South America",
+          "country_code": "BR",
+          "country_name": "Brazil",
+          "country_subdivision_code": "RJ",
+          "country_subdivision_name": "Rio de Janeiro",
+          "lat": -22.90642,
+          "lng": -43.18223,
+          "name": "Rio de Janeiro"
+        },
+        "geonames_id": 3451190
+      }
+    ],
+    "names": [
+      {
+        "lang": "pt",
+        "types": [
+          "acronym"
+        ],
+        "value": "IOC"
+      },
+      {
+        "lang": "pt",
+        "types": [
+          "label",
+          "ror_display"
+        ],
+        "value": "Instituto Oswaldo Cruz"
+      },
+      {
+        "lang": "pt",
+        "types": [
+          "alias"
+        ],
+        "value": "Instituto Soroterápico Federal"
+      },
+      {
+        "lang": "pt",
+        "types": [
+          "alias"
+        ],
+        "value": "Instituto de Manguinhos"
+      },
+      {
+        "lang": "pt",
+        "types": [
+          "alias"
+        ],
+        "value": "Instituto de Patologia Experimental de Manguinhos"
+      }
+    ],
+    "relationships": [
+      {
+        "label": "Fundação Oswaldo Cruz",
+        "type": "parent",
+        "id": "https://ror.org/04jhswv08"
+      }
+    ],
+    "status": "active",
+    "types": [
+      "education",
+      "facility",
+      "funder"
+    ]
+  },
+  {
+    "admin": {
+      "created": {
+        "date": "2026-10-18",
+        "schema_version": "2.1"
+      },
+      "last_modified": {
+        "date": "2026-10-20",
+        "schema_version": "2.1"
+      }
+    },
+    "domains": [
+      "coc.fiocruz.br"
+    ],
+    "established": 1985,
+    "external_ids": [
+      {
+        "all": [
+          "0000 0000 8763 9763"
+        ],
+        "preferred": "0000 0000 8763 9763",
+        "type": "isni"
+      },
+      {
+        "all": [
+          "Q56693275"
+        ],
+        "preferred": "Q56693275",
+        "type": "wikidata"
+      }
+    ],
+    "id": "https://ror.org/03mg1jb55",
+    "links": [
+      {
+        "type": "website",
+        "value": "https://www.coc.fiocruz.br/"
+      },
+      {
+        "type": "wikipedia",
+        "value": "https://pt.wikipedia.org/wiki/Casa_de_Oswaldo_Cruz"
+      }
+    ],
+    "locations": [
+      {
+        "geonames_details": {
+          "continent_code": "SA",
+          "continent_name": "South America",
+          "country_code": "BR",
+          "country_name": "Brazil",
+          "country_subdivision_code": "RJ",
+          "country_subdivision_name": "Rio de Janeiro",
+          "lat": -22.90642,
+          "lng": -43.18223,
+          "name": "Rio de Janeiro"
+        },
+        "geonames_id": 3451190
+      }
+    ],
+    "names": [
+      {
+        "lang": "pt",
+        "types": [
+          "acronym"
+        ],
+        "value": "COC"
+      },
+      {
+        "lang": "pt",
+        "types": [
+          "label",
+          "ror_display"
+        ],
+        "value": "Casa de Oswaldo Cruz"
+      }
+    ],
+    "relationships": [
+      {
+        "label": "Fundação Oswaldo Cruz",
+        "type": "parent",
+        "id": "https://ror.org/04jhswv08"
+      }
+    ],
+    "status": "active",
+    "types": [
+      "archive",
+      "education"
+    ]
+  },
+  {
+    "admin": {
+      "created": {
+        "date": "2026-10-18",
+        "schema_version": "2.1"
+      },
+      "last_modified": {
+        "date": "2026-10-20",
+        "schema_version": "2.1"
+      }
+    },
+    "domains": [
+      "ictb.fiocruz.br"
+    ],
+    "established": 1998,
+    "external_ids": [],
+    "id": "https://ror.org/042mhpv02",
+    "links": [
+      {
+        "type": "website",
+        "value": "https://www.ictb.fiocruz.br/"
+      }
+    ],
+    "locations": [
+      {
+        "geonames_details": {
+          "continent_code": "SA",
+          "continent_name": "South America",
+          "country_code": "BR",
+          "country_name": "Brazil",
+          "country_subdivision_code": "RJ",
+          "country_subdivision_name": "Rio de Janeiro",
+          "lat": -22.90642,
+          "lng": -43.18223,
+          "name": "Rio de Janeiro"
+        },
+        "geonames_id": 3451190
+      }
+    ],
+    "names": [
+      {
+        "lang": "pt",
+        "types": [
+          "alias"
+        ],
+        "value": "Centro de Criação de Animais de Laboratório"
+      },
+      {
+        "lang": "pt",
+        "types": [
+          "acronym"
+        ],
+        "value": "ICTB"
+      },
+      {
+        "lang": "pt",
+        "types": [
+          "label",
+          "ror_display"
+        ],
+        "value": "Instituto de Ciência e Tecnologia em Biomodelos"
+      }
+    ],
+    "relationships": [
+      {
+        "label": "Fundação Oswaldo Cruz",
+        "type": "parent",
+        "id": "https://ror.org/04jhswv08"
+      }
+    ],
+    "status": "active",
+    "types": [
+      "education",
+      "facility"
+    ]
+  },
+  {
+    "admin": {
+      "created": {
+        "date": "2026-10-18",
+        "schema_version": "2.1"
+      },
+      "last_modified": {
+        "date": "2026-10-20",
+        "schema_version": "2.1"
+      }
+    },
+    "domains": [
+      "rondonia.fiocruz.br"
+    ],
+    "established": 2009,
+    "external_ids": [],
+    "id": "https://ror.org/0120tkg95",
+    "links": [
+      {
+        "type": "website",
+        "value": "https://fiocruz.br/unidade/fiocruz-rondonia"
+      }
+    ],
+    "locations": [
+      {
+        "geonames_details": {
+          "continent_code": "SA",
+          "continent_name": "South America",
+          "country_code": "BR",
+          "country_name": "Brazil",
+          "country_subdivision_code": "RO",
+          "country_subdivision_name": "Rondônia",
+          "lat": -8.76194,
+          "lng": -63.90389,
+          "name": "Porto Velho"
+        },
+        "geonames_id": 3662762
+      }
+    ],
+    "names": [
+      {
+        "lang": "pt",
+        "types": [
+          "alias"
+        ],
+        "value": "Fiocruz Noroeste"
+      },
+      {
+        "lang": "pt",
+        "types": [
+          "label",
+          "ror_display"
+        ],
+        "value": "Fiocruz Rondônia"
+      },
+      {
+        "lang": "pt",
+        "types": [
+          "alias"
+        ],
+        "value": "Fundação Oswaldo Cruz Noroeste"
+      }
+    ],
+    "relationships": [
+      {
+        "label": "Fundação Oswaldo Cruz",
+        "type": "parent",
+        "id": "https://ror.org/04jhswv08"
+      }
+    ],
+    "status": "active",
+    "types": [
+      "education",
+      "facility"
+    ]
+  },
+  {
+    "admin": {
+      "created": {
+        "date": "2026-10-18",
+        "schema_version": "2.1"
+      },
+      "last_modified": {
+        "date": "2026-10-20",
+        "schema_version": "2.1"
+      }
+    },
+    "domains": [
+      "fiocruzbrasilia.fiocruz.br"
+    ],
+    "established": 1976,
+    "external_ids": [
+      {
+        "all": [
+          "0000 0004 9549 6415"
+        ],
+        "preferred": "0000 0004 9549 6415",
+        "type": "isni"
+      }
+    ],
+    "id": "https://ror.org/05xvbjr04",
+    "links": [
+      {
+        "type": "website",
+        "value": "https://www.fiocruzbrasilia.fiocruz.br/"
+      }
+    ],
+    "locations": [
+      {
+        "geonames_details": {
+          "continent_code": "SA",
+          "continent_name": "South America",
+          "country_code": "BR",
+          "country_name": "Brazil",
+          "country_subdivision_code": "DF",
+          "country_subdivision_name": "Federal District",
+          "lat": -15.77972,
+          "lng": -47.92972,
+          "name": "Brasília"
+        },
+        "geonames_id": 3469058
+      }
+    ],
+    "names": [
+      {
+        "lang": "pt",
+        "types": [
+          "alias"
+        ],
+        "value": "Coordenação Regional da Fiocruz"
+      },
+      {
+        "lang": "pt",
+        "types": [
+          "alias"
+        ],
+        "value": "Diretoria Regional de Brasília"
+      },
+      {
+        "lang": "pt",
+        "types": [
+          "label",
+          "ror_display"
+        ],
+        "value": "Fiocruz Brasília"
+      },
+      {
+        "lang": "pt",
+        "types": [
+          "alias"
+        ],
+        "value": "Gerência Regional de Brasília"
+      }
+    ],
+    "relationships": [
+      {
+        "label": "Fundação Oswaldo Cruz",
+        "type": "parent",
+        "id": "https://ror.org/04jhswv08"
+      }
+    ],
+    "status": "active",
+    "types": [
+      "education",
+      "facility"
+    ]
+  },
+  {
+    "admin": {
+      "created": {
+        "date": "2026-10-18",
+        "schema_version": "2.1"
+      },
+      "last_modified": {
+        "date": "2026-10-20",
+        "schema_version": "2.1"
+      }
+    },
+    "domains": [
+      "bahia.fiocruz.br"
+    ],
+    "established": 1957,
+    "external_ids": [
+      {
+        "all": [
+          "0000 0004 0603 0622"
+        ],
+        "preferred": "0000 0004 0603 0622",
+        "type": "isni"
+      },
+      {
+        "all": [
+          "Q116038904"
+        ],
+        "preferred": "Q116038904",
+        "type": "wikidata"
+      }
+    ],
+    "id": "https://ror.org/02kqr5716",
+    "links": [
+      {
+        "type": "website",
+        "value": "https://www.bahia.fiocruz.br/"
+      },
+      {
+        "type": "wikipedia",
+        "value": "https://pt.wikipedia.org/wiki/Instituto_Gon%C3%A7alo_Moniz"
+      }
+    ],
+    "locations": [
+      {
+        "geonames_details": {
+          "continent_code": "SA",
+          "continent_name": "South America",
+          "country_code": "BR",
+          "country_name": "Brazil",
+          "country_subdivision_code": "BA",
+          "country_subdivision_name": "Bahia",
+          "lat": -12.97563,
+          "lng": -38.49096,
+          "name": "Salvador"
+        },
+        "geonames_id": 3450554
+      }
+    ],
+    "names": [
+      {
+        "lang": "pt",
+        "types": [
+          "acronym"
+        ],
+        "value": "CPqGM"
+      },
+      {
+        "lang": "pt",
+        "types": [
+          "alias"
+        ],
+        "value": "Centro de Pesquisas Gonçalo Moniz"
+      },
+      {
+        "lang": "pt",
+        "types": [
+          "alias"
+        ],
+        "value": "Fiocruz Bahia"
+      },
+      {
+        "lang": "en",
+        "types": [
+          "label"
+        ],
+        "value": "Gonçalo Moniz Institute"
+      },
+      {
+        "lang": "pt",
+        "types": [
+          "acronym"
+        ],
+        "value": "IGM"
+      },
+      {
+        "lang": "pt",
+        "types": [
+          "label",
+          "ror_display"
+        ],
+        "value": "Instituto Gonçalo Moniz"
+      },
+      {
+        "lang": "pt",
+        "types": [
+          "alias"
+        ],
+        "value": "Núcleo de Pesquisas da Bahia"
+      }
+    ],
+    "relationships": [
+      {
+        "label": "Fundação Oswaldo Cruz",
+        "type": "parent",
+        "id": "https://ror.org/04jhswv08"
+      }
+    ],
+    "status": "active",
+    "types": [
+      "education",
+      "facility",
+      "government"
+    ]
+  },
+  {
+    "admin": {
+      "created": {
+        "date": "2026-10-18",
+        "schema_version": "2.1"
+      },
+      "last_modified": {
+        "date": "2026-10-20",
+        "schema_version": "2.1"
+      }
+    },
+    "domains": [],
+    "established": 2014,
+    "external_ids": [
+      {
+        "all": [
+          "0000 0005 1778 5550"
+        ],
+        "preferred": "0000 0005 1778 5550",
+        "type": "isni"
+      }
+    ],
+    "id": "https://ror.org/02n9dx372",
+    "links": [
+      {
+        "type": "website",
+        "value": "https://fiocruz.br/fiocruz-piaui"
+      }
+    ],
+    "locations": [
+      {
+        "geonames_details": {
+          "continent_code": "SA",
+          "continent_name": "South America",
+          "country_code": "BR",
+          "country_name": "Brazil",
+          "country_subdivision_code": "PI",
+          "country_subdivision_name": "Piauí",
+          "lat": -5.08917,
+          "lng": -42.80194,
+          "name": "Teresina"
+        },
+        "geonames_id": 3386496
+      }
+    ],
+    "names": [
+      {
+        "lang": "pt",
+        "types": [
+          "alias"
+        ],
+        "value": "Escritório Regional Fiocruz Piauí"
+      },
+      {
+        "lang": "pt",
+        "types": [
+          "alias"
+        ],
+        "value": "Escritório Técnico Regional Fiocruz Piauí"
+      },
+      {
+        "lang": "pt",
+        "types": [
+          "label",
+          "ror_display"
+        ],
+        "value": "Fiocruz Piauí"
+      }
+    ],
+    "relationships": [
+      {
+        "label": "Fundação Oswaldo Cruz",
+        "type": "parent",
+        "id": "https://ror.org/04jhswv08"
+      }
+    ],
+    "status": "active",
+    "types": [
+      "government"
+    ]
+  },
+  {
+    "admin": {
+      "created": {
+        "date": "2026-10-18",
+        "schema_version": "2.1"
+      },
+      "last_modified": {
+        "date": "2026-10-20",
+        "schema_version": "2.1"
+      }
+    },
+    "domains": [
+      "epsjv.fiocruz.br"
+    ],
+    "established": 1985,
+    "external_ids": [
+      {
+        "all": [
+          "Q10274385"
+        ],
+        "preferred": "Q10274385",
+        "type": "wikidata"
+      }
+    ],
+    "id": "https://ror.org/043719z06",
+    "links": [
+      {
+        "type": "website",
+        "value": "https://www.epsjv.fiocruz.br"
+      },
+      {
+        "type": "wikipedia",
+        "value": "https://pt.wikipedia.org/wiki/Escola_Polit%C3%A9cnica_de_Sa%C3%BAde_Joaquim_Ven%C3%A2ncio"
+      }
+    ],
+    "locations": [
+      {
+        "geonames_details": {
+          "continent_code": "SA",
+          "continent_name": "South America",
+          "country_code": "BR",
+          "country_name": "Brazil",
+          "country_subdivision_code": "RJ",
+          "country_subdivision_name": "Rio de Janeiro",
+          "lat": -22.90642,
+          "lng": -43.18223,
+          "name": "Rio de Janeiro"
+        },
+        "geonames_id": 3451190
+      }
+    ],
+    "names": [
+      {
+        "lang": "pt",
+        "types": [
+          "acronym"
+        ],
+        "value": "EPSJV"
+      },
+      {
+        "lang": "pt",
+        "types": [
+          "label",
+          "ror_display"
+        ],
+        "value": "Escola Politécnica de Saúde Joaquim Venâncio"
+      },
+      {
+        "lang": "pt",
+        "types": [
+          "alias"
+        ],
+        "value": "Politécnico da Saúde Joaquim Venâncio"
+      }
+    ],
+    "relationships": [
+      {
+        "label": "Fundação Oswaldo Cruz",
+        "type": "parent",
+        "id": "https://ror.org/04jhswv08"
+      }
+    ],
+    "status": "active",
+    "types": [
+      "education"
+    ]
+  },
+  {
+    "admin": {
+      "created": {
+        "date": "2026-10-18",
+        "schema_version": "2.1"
+      },
+      "last_modified": {
+        "date": "2026-10-20",
+        "schema_version": "2.1"
+      }
+    },
+    "domains": [
+      "amazonia.fiocruz.br"
+    ],
+    "established": 1994,
+    "external_ids": [],
+    "id": "https://ror.org/00tr75m28",
+    "links": [
+      {
+        "type": "website",
+        "value": "https://amazonia.fiocruz.br"
+      }
+    ],
+    "locations": [
+      {
+        "geonames_details": {
+          "continent_code": "SA",
+          "continent_name": "South America",
+          "country_code": "BR",
+          "country_name": "Brazil",
+          "country_subdivision_code": "AM",
+          "country_subdivision_name": "Amazonas",
+          "lat": -3.10194,
+          "lng": -60.025,
+          "name": "Manaus"
+        },
+        "geonames_id": 3663517
+      }
+    ],
+    "names": [
+      {
+        "lang": "pt",
+        "types": [
+          "acronym"
+        ],
+        "value": "CPqLMD"
+      },
+      {
+        "lang": "pt",
+        "types": [
+          "alias"
+        ],
+        "value": "Centro de Pesquisa Leônidas e Maria Deane"
+      },
+      {
+        "lang": "pt",
+        "types": [
+          "label",
+          "ror_display"
+        ],
+        "value": "Fiocruz Amazônia"
+      },
+      {
+        "lang": "pt",
+        "types": [
+          "acronym"
+        ],
+        "value": "ILMD"
+      },
+      {
+        "lang": "pt",
+        "types": [
+          "alias"
+        ],
+        "value": "Instituto Leônidas e Maria Deane"
+      }
+    ],
+    "relationships": [
+      {
+        "label": "Fundação Oswaldo Cruz",
+        "type": "parent",
+        "id": "https://ror.org/04jhswv08"
+      }
+    ],
+    "status": "active",
+    "types": [
+      "education",
+      "facility"
+    ]
+  },
+  {
+    "admin": {
+      "created": {
+        "date": "2026-10-18",
+        "schema_version": "2.1"
+      },
+      "last_modified": {
+        "date": "2026-10-20",
+        "schema_version": "2.1"
+      }
+    },
+    "domains": [
+      "ini.fiocruz.br"
+    ],
+    "established": 1918,
+    "external_ids": [
+      {
+        "all": [
+          "0000 0005 1284 067X"
+        ],
+        "preferred": "0000 0005 1284 067X",
+        "type": "isni"
+      },
+      {
+        "all": [
+          "Q133242307"
+        ],
+        "preferred": "Q133242307",
+        "type": "wikidata"
+      }
+    ],
+    "id": "https://ror.org/03jw34240",
+    "links": [
+      {
+        "type": "website",
+        "value": "https://www.ini.fiocruz.br"
+      },
+      {
+        "type": "wikipedia",
+        "value": "https://pt.wikipedia.org/wiki/Instituto_Nacional_de_Infectologia_Evandro_Chagas"
+      }
+    ],
+    "locations": [
+      {
+        "geonames_details": {
+          "continent_code": "SA",
+          "continent_name": "South America",
+          "country_code": "BR",
+          "country_name": "Brazil",
+          "country_subdivision_code": "RJ",
+          "country_subdivision_name": "Rio de Janeiro",
+          "lat": -22.90642,
+          "lng": -43.18223,
+          "name": "Rio de Janeiro"
+        },
+        "geonames_id": 3451190
+      }
+    ],
+    "names": [
+      {
+        "lang": "pt",
+        "types": [
+          "alias"
+        ],
+        "value": "Centro de Pesquisa Clínica Hospital Evandro Chagas"
+      },
+      {
+        "lang": "en",
+        "types": [
+          "label"
+        ],
+        "value": "Evandro Chagas National Institute of Infectious Diseases"
+      },
+      {
+        "lang": "pt",
+        "types": [
+          "alias"
+        ],
+        "value": "Hospital Evandro Chagas"
+      },
+      {
+        "lang": "pt",
+        "types": [
+          "alias"
+        ],
+        "value": "Hospital Oswaldo Cruz"
+      },
+      {
+        "lang": "pt",
+        "types": [
+          "alias"
+        ],
+        "value": "Hospital de Doenças Tropicais"
+      },
+      {
+        "lang": "pt",
+        "types": [
+          "alias"
+        ],
+        "value": "Hospital de Manguinhos"
+      },
+      {
+        "lang": "pt",
+        "types": [
+          "acronym"
+        ],
+        "value": "INI"
+      },
+      {
+        "lang": "pt",
+        "types": [
+          "label",
+          "ror_display"
+        ],
+        "value": "Instituto Nacional de Infectologia Evandro Chagas"
+      },
+      {
+        "lang": "pt",
+        "types": [
+          "alias"
+        ],
+        "value": "Instituto de Pesquisa Clínica Evandro Chagas"
+      }
+    ],
+    "relationships": [
+      {
+        "label": "Fundação Oswaldo Cruz",
+        "type": "parent",
+        "id": "https://ror.org/04jhswv08"
+      }
+    ],
+    "status": "active",
+    "types": [
+      "education",
+      "facility",
+      "healthcare"
+    ]
+  },
+  {
+    "admin": {
+      "created": {
+        "date": "2026-10-18",
+        "schema_version": "2.1"
+      },
+      "last_modified": {
+        "date": "2026-10-20",
+        "schema_version": "2.1"
+      }
+    },
+    "domains": [
+      "incqs.fiocruz.br"
+    ],
+    "established": 1981,
+    "external_ids": [
+      {
+        "all": [
+          "0000 0000 8888 9588"
+        ],
+        "preferred": "0000 0000 8888 9588",
+        "type": "isni"
+      },
+      {
+        "all": [
+          "Q74549593"
+        ],
+        "preferred": "Q74549593",
+        "type": "wikidata"
+      }
+    ],
+    "id": "https://ror.org/02ew1yw87",
+    "links": [
+      {
+        "type": "website",
+        "value": "https://www.incqs.fiocruz.br"
+      }
+    ],
+    "locations": [
+      {
+        "geonames_details": {
+          "continent_code": "SA",
+          "continent_name": "South America",
+          "country_code": "BR",
+          "country_name": "Brazil",
+          "country_subdivision_code": "RJ",
+          "country_subdivision_name": "Rio de Janeiro",
+          "lat": -22.90642,
+          "lng": -43.18223,
+          "name": "Rio de Janeiro"
+        },
+        "geonames_id": 3451190
+      }
+    ],
+    "names": [
+      {
+        "lang": "pt",
+        "types": [
+          "acronym"
+        ],
+        "value": "INCQS"
+      },
+      {
+        "lang": "pt",
+        "types": [
+          "label",
+          "ror_display"
+        ],
+        "value": "Instituto Nacional de Controle de Qualidade em Saúde"
+      },
+      {
+        "lang": "pt",
+        "types": [
+          "alias"
+        ],
+        "value": "Laboratório Central de Controle de Drogas, Medicamentos e Alimentos"
+      }
+    ],
+    "relationships": [
+      {
+        "label": "Fundação Oswaldo Cruz",
+        "type": "parent",
+        "id": "https://ror.org/04jhswv08"
+      }
+    ],
+    "status": "active",
+    "types": [
+      "education",
+      "facility"
+    ]
+  },
+  {
+    "admin": {
+      "created": {
+        "date": "2026-10-18",
+        "schema_version": "2.1"
+      },
+      "last_modified": {
+        "date": "2026-10-20",
+        "schema_version": "2.1"
+      }
+    },
+    "domains": [
+      "bio.fiocruz.br"
+    ],
+    "established": 1976,
+    "external_ids": [
+      {
+        "all": [
+          "0000 0001 0039 444X"
+        ],
+        "preferred": "0000 0001 0039 444X",
+        "type": "isni"
+      },
+      {
+        "all": [
+          "Q16498345"
+        ],
+        "preferred": "Q16498345",
+        "type": "wikidata"
+      }
+    ],
+    "id": "https://ror.org/01q1w1b26",
+    "links": [
+      {
+        "type": "website",
+        "value": "https://www.bio.fiocruz.br"
+      },
+      {
+        "type": "wikipedia",
+        "value": "https://pt.wikipedia.org/wiki/Bio-Manguinhos"
+      }
+    ],
+    "locations": [
+      {
+        "geonames_details": {
+          "continent_code": "SA",
+          "continent_name": "South America",
+          "country_code": "BR",
+          "country_name": "Brazil",
+          "country_subdivision_code": "RJ",
+          "country_subdivision_name": "Rio de Janeiro",
+          "lat": -22.90642,
+          "lng": -43.18223,
+          "name": "Rio de Janeiro"
+        },
+        "geonames_id": 3451190
+      }
+    ],
+    "names": [
+      {
+        "lang": "pt",
+        "types": [
+          "alias"
+        ],
+        "value": "Bio-Manguinhos"
+      },
+      {
+        "lang": "pt",
+        "types": [
+          "label",
+          "ror_display"
+        ],
+        "value": "Instituto de Tecnologia em Imunobiológicos"
+      }
+    ],
+    "relationships": [
+      {
+        "label": "Fundação Oswaldo Cruz",
+        "type": "parent",
+        "id": "https://ror.org/04jhswv08"
+      }
+    ],
+    "status": "active",
+    "types": [
+      "education",
+      "facility",
+      "government"
+    ]
+  },
+  {
+    "admin": {
+      "created": {
+        "date": "2026-10-18",
+        "schema_version": "2.1"
+      },
+      "last_modified": {
+        "date": "2026-10-20",
+        "schema_version": "2.1"
+      }
+    },
+    "domains": [
+      "icict.fiocruz.br"
+    ],
+    "established": 1986,
+    "external_ids": [],
+    "id": "https://ror.org/011emjq73",
+    "links": [
+      {
+        "type": "website",
+        "value": "https://www.icict.fiocruz.br"
+      }
+    ],
+    "locations": [
+      {
+        "geonames_details": {
+          "continent_code": "SA",
+          "continent_name": "South America",
+          "country_code": "BR",
+          "country_name": "Brazil",
+          "country_subdivision_code": "RJ",
+          "country_subdivision_name": "Rio de Janeiro",
+          "lat": -22.90642,
+          "lng": -43.18223,
+          "name": "Rio de Janeiro"
+        },
+        "geonames_id": 3451190
+      }
+    ],
+    "names": [
+      {
+        "lang": "pt",
+        "types": [
+          "alias"
+        ],
+        "value": "Centro de Informação Científica e Tecnológica"
+      },
+      {
+        "lang": "pt",
+        "types": [
+          "acronym"
+        ],
+        "value": "ICICT"
+      },
+      {
+        "lang": "pt",
+        "types": [
+          "label",
+          "ror_display"
+        ],
+        "value": "Instituto de Comunicação e Informação Científica e Tecnológica em Saúde"
+      },
+      {
+        "lang": "pt",
+        "types": [
+          "alias"
+        ],
+        "value": "Superintendência de Informação Científica"
+      },
+      {
+        "lang": "pt",
+        "types": [
+          "alias"
+        ],
+        "value": "Superintendência de Informação Científica e Tecnológica"
+      }
+    ],
+    "relationships": [
+      {
+        "label": "Fundação Oswaldo Cruz",
+        "type": "parent",
+        "id": "https://ror.org/04jhswv08"
+      }
+    ],
+    "status": "active",
+    "types": [
+      "archive",
+      "education"
+    ]
+  },
+  {
+    "admin": {
+      "created": {
+        "date": "2026-10-18",
+        "schema_version": "2.1"
+      },
+      "last_modified": {
+        "date": "2026-10-20",
+        "schema_version": "2.1"
+      }
+    },
+    "domains": [
+      "far.fiocruz.br"
+    ],
+    "established": 1976,
+    "external_ids": [
+      {
+        "all": [
+          "0000 0000 9420 3431"
+        ],
+        "preferred": "0000 0000 9420 3431",
+        "type": "isni"
+      },
+      {
+        "all": [
+          "Q10280082"
+        ],
+        "preferred": "Q10280082",
+        "type": "wikidata"
+      }
+    ],
+    "id": "https://ror.org/04zshw128",
+    "links": [
+      {
+        "type": "website",
+        "value": "https://www.far.fiocruz.br"
+      },
+      {
+        "type": "wikipedia",
+        "value": "https://pt.wikipedia.org/wiki/Farmanguinhos"
+      }
+    ],
+    "locations": [
+      {
+        "geonames_details": {
+          "continent_code": "SA",
+          "continent_name": "South America",
+          "country_code": "BR",
+          "country_name": "Brazil",
+          "country_subdivision_code": "RJ",
+          "country_subdivision_name": "Rio de Janeiro",
+          "lat": -22.90642,
+          "lng": -43.18223,
+          "name": "Rio de Janeiro"
+        },
+        "geonames_id": 3451190
+      }
+    ],
+    "names": [
+      {
+        "lang": "pt",
+        "types": [
+          "alias"
+        ],
+        "value": "Farmanguinhos"
+      },
+      {
+        "lang": "pt",
+        "types": [
+          "label",
+          "ror_display"
+        ],
+        "value": "Instituto de Tecnologia em Fármacos"
+      }
+    ],
+    "relationships": [
+      {
+        "label": "Fundação Oswaldo Cruz",
+        "type": "parent",
+        "id": "https://ror.org/04jhswv08"
+      }
+    ],
+    "status": "active",
+    "types": [
+      "education",
+      "facility"
+    ]
+  },
+  {
+    "admin": {
+      "created": {
+        "date": "2026-10-18",
+        "schema_version": "2.1"
+      },
+      "last_modified": {
+        "date": "2026-10-20",
+        "schema_version": "2.1"
+      }
+    },
+    "domains": [
+      "icc.fiocruz.br"
+    ],
+    "established": 2008,
+    "external_ids": [
+      {
+        "all": [
+          "0000 0004 0417 6193"
+        ],
+        "preferred": "0000 0004 0417 6193",
+        "type": "isni"
+      },
+      {
+        "all": [
+          "Q134304345"
+        ],
+        "preferred": "Q134304345",
+        "type": "wikidata"
+      }
+    ],
+    "id": "https://ror.org/01y8gmz47",
+    "links": [
+      {
+        "type": "website",
+        "value": "https://www.icc.fiocruz.br"
+      },
+      {
+        "type": "wikipedia",
+        "value": "https://pt.wikipedia.org/wiki/Instituto_Carlos_Chagas"
+      }
+    ],
+    "locations": [
+      {
+        "geonames_details": {
+          "continent_code": "SA",
+          "continent_name": "South America",
+          "country_code": "BR",
+          "country_name": "Brazil",
+          "country_subdivision_code": "PR",
+          "country_subdivision_name": "Paraná",
+          "lat": -25.42778,
+          "lng": -49.27306,
+          "name": "Curitiba"
+        },
+        "geonames_id": 3464975
+      }
+    ],
+    "names": [
+      {
+        "lang": "en",
+        "types": [
+          "label"
+        ],
+        "value": "Carlos Chagas Institute"
+      },
+      {
+        "lang": "pt",
+        "types": [
+          "alias"
+        ],
+        "value": "Fiocruz Paraná"
+      },
+      {
+        "lang": "pt",
+        "types": [
+          "acronym"
+        ],
+        "value": "ICC"
+      },
+      {
+        "lang": "pt",
+        "types": [
+          "label",
+          "ror_display"
+        ],
+        "value": "Instituto Carlos Chagas"
+      }
+    ],
+    "relationships": [
+      {
+        "label": "Fundação Oswaldo Cruz",
+        "type": "parent",
+        "id": "https://ror.org/04jhswv08"
+      },
+      {
+        "label": "Instituto de Biologia Molecular do Paraná",
+        "type": "related",
+        "id": "https://ror.org/00gkmm041"
+      }
+    ],
+    "status": "active",
+    "types": [
+      "education",
+      "facility",
+      "government"
+    ]
+  },
+  {
+    "admin": {
+      "created": {
+        "date": "2026-10-18",
+        "schema_version": "2.1"
+      },
+      "last_modified": {
+        "date": "2026-10-20",
+        "schema_version": "2.1"
+      }
+    },
+    "domains": [
+      "minas.fiocruz.br"
+    ],
+    "established": 1955,
+    "external_ids": [
+      {
+        "all": [
+          "0000 0000 9284 9458"
+        ],
+        "preferred": "0000 0000 9284 9458",
+        "type": "isni"
+      }
+    ],
+    "id": "https://ror.org/016szx330",
+    "links": [
+      {
+        "type": "website",
+        "value": "https://minas.fiocruz.br"
+      },
+      {
+        "type": "wikipedia",
+        "value": "https://pt.wikipedia.org/wiki/Instituto_Ren%C3%A9_Rachou"
+      }
+    ],
+    "locations": [
+      {
+        "geonames_details": {
+          "continent_code": "SA",
+          "continent_name": "South America",
+          "country_code": "BR",
+          "country_name": "Brazil",
+          "country_subdivision_code": "MG",
+          "country_subdivision_name": "Minas Gerais",
+          "lat": -19.92083,
+          "lng": -43.93778,
+          "name": "Belo Horizonte"
+        },
+        "geonames_id": 3470127
+      }
+    ],
+    "names": [
+      {
+        "lang": "pt",
+        "types": [
+          "acronym"
+        ],
+        "value": "CPqRR"
+      },
+      {
+        "lang": "pt",
+        "types": [
+          "alias"
+        ],
+        "value": "Centro de Pesquisas René Rachou"
+      },
+      {
+        "lang": "pt",
+        "types": [
+          "label",
+          "ror_display"
+        ],
+        "value": "Fiocruz Minas"
+      },
+      {
+        "lang": "pt",
+        "types": [
+          "acronym"
+        ],
+        "value": "IRR"
+      },
+      {
+        "lang": "pt",
+        "types": [
+          "alias"
+        ],
+        "value": "Instituto René Rachou"
+      },
+      {
+        "lang": "en",
+        "types": [
+          "label"
+        ],
+        "value": "René Rachou Institute"
+      }
+    ],
+    "relationships": [
+      {
+        "label": "Fundação Oswaldo Cruz",
+        "type": "parent",
+        "id": "https://ror.org/04jhswv08"
+      }
+    ],
+    "status": "active",
+    "types": [
+      "education",
+      "government"
+    ]
+  },
+  {
+    "admin": {
+      "created": {
+        "date": "2026-10-18",
+        "schema_version": "2.1"
+      },
+      "last_modified": {
+        "date": "2026-10-20",
+        "schema_version": "2.1"
+      }
+    },
+    "domains": [
+      "iff.fiocruz.br"
+    ],
+    "established": 1924,
+    "external_ids": [
+      {
+        "all": [
+          "0000 0000 8598 2373"
+        ],
+        "preferred": "0000 0000 8598 2373",
+        "type": "isni"
+      },
+      {
+        "all": [
+          "Q106545908"
+        ],
+        "preferred": "Q106545908",
+        "type": "wikidata"
+      }
+    ],
+    "id": "https://ror.org/013s73v91",
+    "links": [
+      {
+        "type": "website",
+        "value": "https://www.iff.fiocruz.br"
+      },
+      {
+        "type": "wikipedia",
+        "value": "https://pt.wikipedia.org/wiki/Instituto_Fernandes_Figueira"
+      }
+    ],
+    "locations": [
+      {
+        "geonames_details": {
+          "continent_code": "SA",
+          "continent_name": "South America",
+          "country_code": "BR",
+          "country_name": "Brazil",
+          "country_subdivision_code": "RJ",
+          "country_subdivision_name": "Rio de Janeiro",
+          "lat": -22.90642,
+          "lng": -43.18223,
+          "name": "Rio de Janeiro"
+        },
+        "geonames_id": 3451190
+      }
+    ],
+    "names": [
+      {
+        "lang": "en",
+        "types": [
+          "label"
+        ],
+        "value": "Fernandes Figueira National Institute of Women's, Child, and Adolescent Health"
+      },
+      {
+        "lang": "pt",
+        "types": [
+          "acronym"
+        ],
+        "value": "IFF"
+      },
+      {
+        "lang": "pt",
+        "types": [
+          "alias"
+        ],
+        "value": "Instituto Fernandes Figueira"
+      },
+      {
+        "lang": "pt",
+        "types": [
+          "label",
+          "ror_display"
+        ],
+        "value": "Instituto Nacional de Saúde da Mulher, da Criança e do Adolescente Fernandes Figueira"
+      }
+    ],
+    "relationships": [
+      {
+        "label": "Fundação Oswaldo Cruz",
+        "type": "parent",
+        "id": "https://ror.org/04jhswv08"
+      }
+    ],
+    "status": "active",
+    "types": [
+      "education",
+      "facility",
+      "healthcare"
+    ]
+  },
+  {
+    "admin": {
+      "created": {
+        "date": "2026-10-18",
+        "schema_version": "2.1"
+      },
+      "last_modified": {
+        "date": "2026-10-20",
+        "schema_version": "2.1"
+      }
+    },
+    "domains": [
+      "cpqam.fiocruz.br"
+    ],
+    "established": 1950,
+    "external_ids": [
+      {
+        "all": [
+          "501100006508"
+        ],
+        "preferred": "501100006508",
+        "type": "fundref"
+      },
+      {
+        "all": [
+          "0000 0001 0667 4987"
+        ],
+        "preferred": "0000 0001 0667 4987",
+        "type": "isni"
+      }
+    ],
+    "id": "https://ror.org/05pq9gb81",
+    "links": [
+      {
+        "type": "website",
+        "value": "https://www.cpqam.fiocruz.br"
+      }
+    ],
+    "locations": [
+      {
+        "geonames_details": {
+          "continent_code": "SA",
+          "continent_name": "South America",
+          "country_code": "BR",
+          "country_name": "Brazil",
+          "country_subdivision_code": "PE",
+          "country_subdivision_name": "Pernambuco",
+          "lat": -8.05389,
+          "lng": -34.88111,
+          "name": "Recife"
+        },
+        "geonames_id": 3390760
+      }
+    ],
+    "names": [
+      {
+        "lang": "en",
+        "types": [
+          "label"
+        ],
+        "value": "Aggeu Magalhães Institute"
+      },
+      {
+        "lang": "pt",
+        "types": [
+          "acronym"
+        ],
+        "value": "CPqAM"
+      },
+      {
+        "lang": "pt",
+        "types": [
+          "alias"
+        ],
+        "value": "Centro de Pesquisas Aggeu Magalhães"
+      },
+      {
+        "lang": "pt",
+        "types": [
+          "alias"
+        ],
+        "value": "Fiocruz Pernambuco"
+      },
+      {
+        "lang": "pt",
+        "types": [
+          "acronym"
+        ],
+        "value": "IAM"
+      },
+      {
+        "lang": "pt",
+        "types": [
+          "label",
+          "ror_display"
+        ],
+        "value": "Instituto Aggeu Magalhães"
+      }
+    ],
+    "relationships": [
+      {
+        "label": "Fundação Oswaldo Cruz",
+        "type": "parent",
+        "id": "https://ror.org/04jhswv08"
+      }
+    ],
+    "status": "active",
+    "types": [
+      "education",
+      "facility",
+      "funder",
+      "government"
+    ]
+  }
+]

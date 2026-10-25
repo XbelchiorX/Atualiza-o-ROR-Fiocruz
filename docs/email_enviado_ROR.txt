@@ -1,0 +1,28 @@
+Para: support@ror.org
+Assunto: Bulk request – Fiocruz (Oswaldo Cruz Foundation, https://ror.org/04jhswv08): new child records and updates
+Anexos: ROR_Fiocruz_NEW_RECORDS.xlsx ; ROR_Fiocruz_UPDATE_RECORDS.xlsx
+
+Dear ROR team,
+
+I am writing on behalf of the Oswaldo Cruz Foundation (Fiocruz, https://ror.org/04jhswv08), a public health research institution linked to the Brazilian Ministry of Health. I am the manager of the Fiocruz Institutional Repository (Arca, https://arca.fiocruz.br) at the Instituto de Comunicação e Informação Científica e Tecnológica em Saúde (Icict/Fiocruz), a Fiocruz unit that conducts research and develops products and strategies in health information and communication for the Brazilian Unified Health System (SUS, Brazil's public and universal health system). Icict also coordinates the Fiocruz Library Network, the Arca repository (https://www.icict.fiocruz.br/sobre-o-icict).
+
+Currently, only one Fiocruz unit (Escola Nacional de Saúde Pública, https://ror.org/02xm1d907) is registered in ROR as a child of Fiocruz. However, Fiocruz is composed of technical-scientific units and regional offices that are widely and independently used as affiliations in research outputs.
+
+Please find attached the two completed bulk request spreadsheets:
+
+1. ROR_Fiocruz_NEW_RECORDS.xlsx – New Records (20), each with Fiocruz (https://ror.org/04jhswv08) as parent: 15 technical-scientific units, 1 decentralized unit (Fiocruz Brasília) and 4 regional offices (Ceará, Mato Grosso do Sul, Piauí and Rondônia). For each unit we provide its official website and a link to its collection in the Fiocruz Institutional Repository (ARCA, https://arca.fiocruz.br), which shows the research outputs affiliated to that unit. Where applicable, the comments also list the unit's graduate (master's and doctoral) programs as verified in Sucupira (https://sucupira.capes.gov.br), the public information platform of CAPES (Coordenação de Aperfeiçoamento de Pessoal de Nível Superior), the Brazilian Ministry of Education agency that accredits and evaluates all graduate programs in the country on a scale from 1 to 7 (7 being the highest). For each program we include links to its Sucupira page and to the list of research outputs reported by the program to CAPES. Several units are registered in CAPES as distinct institutions (e.g., FIOCRUZ-IAM, FIOCRUZ-IGM, FIOCRUZ-ILMD, FIOCRUZ-IRR).
+
+2. ROR_Fiocruz_UPDATE_RECORDS.xlsx – Update Records (2):
+   - Escola Nacional de Saúde Pública (https://ror.org/02xm1d907): update to its official name, "Escola Nacional de Saúde Pública Sergio Arouca", and add domain.
+   - Fundação Oswaldo Cruz (https://ror.org/04jhswv08): add child relationships to the new records listed in the New Records spreadsheet.
+
+All information was taken from official Fiocruz sources, mainly the list of units at https://fiocruz.br/unidades-e-escritorios, the organizational chart at https://fiocruz.br/organograma and the institutional timeline at https://fiocruz.br/linha-do-tempo, as well as the units' own websites. Administrative units, the Maputo cooperation office and special programs were intentionally not included, in line with ROR's scope.
+
+Thank you very much for your work. Please let me know if any further information is needed.
+
+Best regards,
+
+[Seu nome]
+Manager, Fiocruz Institutional Repository (Arca)
+Instituto de Comunicação e Informação Científica e Tecnológica em Saúde (Icict) – Fundação Oswaldo Cruz (Fiocruz)
+[seu e-mail @fiocruz.br]

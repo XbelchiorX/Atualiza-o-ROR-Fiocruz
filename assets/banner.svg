@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Fiocruz no ROR: 21 unidades registradas">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b3a6e"/>
+      <stop offset="0.55" stop-color="#11508f"/>
+      <stop offset="1" stop-color="#1a7f6e"/>
+    </linearGradient>
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.4" fill="#ffffff" fill-opacity="0.08"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="300" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="18" fill="url(#dots)"/>
+
+  <!-- network motif: parent node linked to 21 children -->
+  <g transform="translate(980 150)" stroke="#ffffff" stroke-opacity="0.35" stroke-width="1.6" fill="none">
+    <circle r="96" stroke-dasharray="3 6"/>
+  </g>
+  <g transform="translate(980 150)">
+    <g stroke="#ffffff" stroke-opacity="0.45" stroke-width="1.4">
+      <line x1="0" y1="0" x2="96" y2="0"/><line x1="0" y1="0" x2="87" y2="41"/><line x1="0" y1="0" x2="63" y2="73"/>
+      <line x1="0" y1="0" x2="27" y2="92"/><line x1="0" y1="0" x2="-14" y2="95"/><line x1="0" y1="0" x2="-52" y2="81"/>
+      <line x1="0" y1="0" x2="-80" y2="53"/><line x1="0" y1="0" x2="-94" y2="20"/><line x1="0" y1="0" x2="-94" y2="-20"/>
+      <line x1="0" y1="0" x2="-80" y2="-53"/><line x1="0" y1="0" x2="-52" y2="-81"/><line x1="0" y1="0" x2="-14" y2="-95"/>
+      <line x1="0" y1="0" x2="27" y2="-92"/><line x1="0" y1="0" x2="63" y2="-73"/><line x1="0" y1="0" x2="87" y2="-41"/>
+    </g>
+    <g fill="#7ee0c3">
+      <circle cx="96" cy="0" r="7"/><circle cx="87" cy="41" r="7"/><circle cx="63" cy="73" r="7"/>
+      <circle cx="27" cy="92" r="7"/><circle cx="-14" cy="95" r="7"/><circle cx="-52" cy="81" r="7"/>
+      <circle cx="-80" cy="53" r="7"/><circle cx="-94" cy="20" r="7"/><circle cx="-94" cy="-20" r="7"/>
+      <circle cx="-80" cy="-53" r="7"/><circle cx="-52" cy="-81" r="7"/><circle cx="-14" cy="-95" r="7"/>
+      <circle cx="27" cy="-92" r="7"/><circle cx="63" cy="-73" r="7"/><circle cx="87" cy="-41" r="7"/>
+    </g>
+    <circle r="30" fill="#ffffff"/>
+    <text y="7" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="19" font-weight="700" fill="#0b3a6e">ROR</text>
+  </g>
+
+  <text x="60" y="92" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" font-weight="600" fill="#9fd9ff" letter-spacing="3">FUNDAÇÃO OSWALDO CRUZ</text>
+  <text x="60" y="150" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="48" font-weight="800" fill="#ffffff">Atualização da Fiocruz no ROR</text>
+  <text x="60" y="194" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" fill="#e6f2ff">Research Organization Registry · 20 novas unidades + ENSP atualizada</text>
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" font-weight="700">
+    <rect x="60" y="222" width="190" height="38" rx="19" fill="#7ee0c3"/>
+    <text x="155" y="247" text-anchor="middle" fill="#0b3a6e">21 unidades no ROR</text>
+    <rect x="266" y="222" width="190" height="38" rx="19" fill="#ffffff" fill-opacity="0.15" stroke="#ffffff" stroke-opacity="0.5"/>
+    <text x="361" y="247" text-anchor="middle" fill="#ffffff">Release v2.15</text>
+    <rect x="472" y="222" width="190" height="38" rx="19" fill="#ffffff" fill-opacity="0.15" stroke="#ffffff" stroke-opacity="0.5"/>
+    <text x="567" y="247" text-anchor="middle" fill="#ffffff">20 out. 2026</text>
+  </g>
+</svg>
