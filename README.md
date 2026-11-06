@@ -86,6 +86,12 @@ Os pedidos foram acompanhados no repositório público de curadoria
 | 18/10/2026 | Ajuste complementar [#42837](https://github.com/ror-community/ror-updates/issues/42837): o Crossref Funder ID `501100006508` passa da Fiocruz para o Instituto Aggeu Magalhães |
 | **20/10/2026** | ✅ **Todos os registros publicados na [release v2.15](https://github.com/ror-community/ror-updates/releases/tag/v2.15)** |
 
+### Verificação em 06/11/2026
+
+- As **23 issues** estão fechadas como concluídas: o projeto [#41654](https://github.com/ror-community/ror-updates/issues/41654), os 21 pedidos ([#41655](https://github.com/ror-community/ror-updates/issues/41655) a [#41675](https://github.com/ror-community/ror-updates/issues/41675)) e o ajuste complementar [#42837](https://github.com/ror-community/ror-updates/issues/42837).
+- A [API v2 do ROR](https://api.ror.org/v2/organizations/04jhswv08) confirma **22 registros ativos** — a Fiocruz e 21 unidades — e todos os vínculos pai/filho nos dois sentidos.
+- Os 22 registros permanecem iguais ao snapshot de 25/10/2026. Também foram reconfirmados o nome e o domínio da ENSP e a transferência do Crossref Funder ID `501100006508` da Fiocruz para o Instituto Aggeu Magalhães.
+
 ### Ajustes feitos pela curadoria do ROR
 
 A curadoria aceitou todos os 20 registros e ainda enriqueceu os dados enviados:
